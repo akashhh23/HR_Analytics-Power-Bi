@@ -1,4 +1,4 @@
-# Human Resources Analytics Dashboard - Technology used : Power Bi
+# Human Resources Analytics Dashboard  (Technology used : Power Bi)
 ## Project Overview
 This project features an interactive HR Analytics Dashboard designed in Power BI, providing key insights into employee performance, attrition, demographics, and organizational health. The dashboard equips HR professionals and decision-makers with data-driven insights to enhance workforce management, reduce attrition, and improve employee satisfaction.
 
@@ -53,7 +53,7 @@ Demographic Distribution: Breakdown of the workforce by age, gender, department,
 
 ## Author - Akash Patil
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+This project is part of my portfolio, showcasing the Power Bi skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 - **LinkedIn**: [[Connect with me professionally](https://www.linkedin.com/in/najirr)](https://www.linkedin.com/in/akash-patil-674569219)
 
